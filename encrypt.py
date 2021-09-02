@@ -5,7 +5,7 @@ import random
 from common import generate_image, read_image
 import numpy as np
 import sys
-from PIL import Image, ImageTk
+from PIL import Image
 from textwrap import wrap
 path_image = "test.jpg"
 # TODO Should be the same of the image.
